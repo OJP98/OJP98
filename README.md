@@ -13,7 +13,7 @@
 
 
 <h2>📈 Some stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojp98&layout=compact&langs_count=8&layout=compact&hide=jupyter%20notebook" alt="ojp98" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojp98&langs_count=8&layout=compact&hide=jupyter%20notebook" alt="ojp98" /></p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojp98&show_icons=true&theme=vue-dark" alt="ojp98" /></p>

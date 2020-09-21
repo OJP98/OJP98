@@ -12,7 +12,7 @@
 - 📫 How to reach me **ojuarez_p@hotmail.com**
 
 <h2>🚀 My skills</h2>
-<p align="center">Programming Languages</p>
+<p align="left">Programming Languages</p>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -23,7 +23,7 @@
 </p>
 
 
-<p align="center">Frontend Development</p>
+<p align="left">Frontend Development</p>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -37,7 +37,7 @@
 </p>
 
 
-<p align="center">Backend Development</p>
+<p align="left">Backend Development</p>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -45,7 +45,7 @@
 </p>
 
 
-<p align="center">Database</p>
+<p align="left">Database</p>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -54,7 +54,7 @@
 
 
 
-<p align="center">Artistic tools</p>
+<p align="left">Artistic tools</p>
 <p align="left">
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
@@ -62,7 +62,7 @@
 </p>
 
 
-<p align="center">Other tools</p>
+<p align="left">Other tools</p>
 <p align="left">
  <img src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -75,13 +75,17 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-
+<h2>📈 Some stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojp98&layout=compact&langs_count=8&layout=compact&hide=jupyter%20notebook" alt="ojp98" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojp98&show_icons=true" alt="ojp98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojp98&show_icons=true&theme=vue-dark" alt="ojp98" /></p>
 
+
+<h2>📱 Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/oscar-jp-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oscar-jp-coder" height="30" width="30" /></a>
 <a href="https://instagram.com/oscarjp_98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oscarjp_98" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/oscar juarez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="oscar juarez" height="30" width="30" /></a>
 </p>
+

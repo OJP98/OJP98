@@ -88,6 +88,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/oscar-jp-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oscar-jp-coder" height="30" width="30" /></a>
 <a href="https://instagram.com/oscarjp_98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oscarjp_98" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/UCwOIApxmeJrS-8eSZrndWdQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="oscar juarez" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCwOIApxmeJrS-8eSZrndWdQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="oscar juarez" height="30" width="30" /></a>
 </p>
 

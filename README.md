@@ -61,7 +61,6 @@
 </p>
 
 
-
 <p align="left">Artistic tools</p>
 <p align="left">
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
@@ -82,6 +81,10 @@
  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
+
+<h2>👨‍💻 Coding Stats!</h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <h2>📱 Connect with me</h2>

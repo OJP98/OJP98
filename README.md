@@ -83,6 +83,7 @@
 </p>
 
 <h2>👨‍💻 Coding Stats!</h2>
+<br>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 

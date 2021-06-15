@@ -1,4 +1,4 @@
-    <h1 align="center">Hi 👋, I'm Oscar</h1>
+<h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A passionate computer science student from Guatemala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojp98" alt="ojp98" /> </p>

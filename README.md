@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate computer science student from Guatemala</h3>
+<h3 align="center">Computer Science Engineer from Guatemala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojp98" alt="ojp98" /> </p>
 
-- 🔭 I’m currently working in **Aseinfo as a developer.**
+- 🔭 I’m currently working in **ASEINFO as a Project Manager.**
 
-- 🌱 I’m currently learning **about everything, really.**
+- 🌱 I’m currently learning **to handle projects efectively with the latest tech.**
 
-- 💬 Ask me about **anything.**
+- 💬 Ask me about **how I organize my projects**
 
-- 📫 How to reach me **ojuarez_p@hotmail.com**
+- 📫 How to reach me **work email: oejuarez@aseinfo.com.sv or my personal email: ojuarez_p@hotmail.com**
 
 
 <h2>📈 Some stats</h2>
